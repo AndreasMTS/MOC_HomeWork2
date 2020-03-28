@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MOC Magic Card List</string>
+    <string name="btn_text">LOAD CARDS</string>
+    <string name="text_developer_name">Andreas Mattes</string>
+</resources>
